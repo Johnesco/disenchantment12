@@ -1,0 +1,111 @@
+
+
+
+
+Disenchantment Bay
+An Interactive Fiction
+Release 1 / Serial number 260306 / Inform 7 v10.1.2 / D
+
+Cabin
+The front of the small cabin is entirely occupied with navigational instruments, a radar display, and radios for calling back to shore. Along each side runs a bench with faded blue vinyl cushions, which can be lifted to reveal the storage space underneath. A glass case against the wall contains several fishing rods.
+
+Scratched windows offer a view of the surrounding bay, and there is a door south to the deck. A sign taped to one wall announces the menu of tours offered by the Yakutat Charter Boat Company.
+
+The captain sits at the wheel, steering the boat and occasionally checking the radar readout.
+
+>The Captain is wearing a baseball cap and carrying a small silver key.
+
+>(first unlocking the glass case)
+You lack a key that fits the glass case.
+
+>You are carrying:
+  a backpack (open)
+    a warm beer
+  a pair of sunglasses (being worn)
+
+>"Sure, you can -- well, get me a drink first, would you?"
+
+>(first taking the warm beer)
+"I don't drink on the job, thanks," he says. "You can help yourself if you want it, though."
+
+>You open the storage compartment, revealing some nets and a warm Coke.
+
+>They must have something to do with fish as well. Really, you're just here for the sights.
+
+>Taken.
+
+>(putting the warm beer into the backpack to make room)
+Taken.
+
+>"It needs chilling," the Captain remarks, disgruntled.
+
+>(first opening the cabin door)
+
+Deck
+The whole back half of the boat is open, allowing you to view the surroundings without intervening windows -- if you can stand the cold.
+
+A very heavy ice chest sits on the ground.
+
+All around the boat bob chunks of glacier ice.
+
+>You open the ice chest.
+
+>Dropped.
+
+>You are having a hard time fishing out the ice with your bare hands.
+
+>Taken.
+
+>You scoop up the ice with the net.
+
+>(putting the warm Coke into the backpack to make room)
+Taken.
+
+>You put the glacier ice into the ice chest.
+
+>Taken.
+
+>You put the warm Coke into the ice chest.
+
+>You see nothing special about the room temperature Coke.
+
+>You see nothing special about the cool Coke.
+
+>You see nothing special about the cold Coke.
+
+>You see nothing special about the cold Coke.
+
+>Taken.
+
+>
+Cabin
+The front of the small cabin is entirely occupied with navigational instruments, a radar display, and radios for calling back to shore. Along each side runs a bench with faded blue vinyl cushions, one of which is currently lifted to allow access to the storage compartment within. A glass case against the wall contains several fishing rods.
+
+Scratched windows offer a view of the surrounding bay, and there is a door south to the deck. A sign taped to one wall announces the menu of tours offered by the Yakutat Charter Boat Company.
+
+The captain sits at the wheel, steering the boat and occasionally checking the radar readout.
+
+>"Ah, thank you," he says. How he can drink an iced soda on a day like today is an open question, but Alaskans are special.
+
+[Your score has just gone up by two points.]
+
+>"Here, knock yourself out."
+
+>(first unlocking the glass case)
+(with the small silver key)
+You open the glass case.
+
+>(putting the nets into the backpack to make room)
+Success is yours! (Now if only you knew anything about fishing.)
+
+
+
+    *** The End ***
+
+
+In that game you scored 5 out of a possible 5, in 30 turns.
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+> 
+<end of input>

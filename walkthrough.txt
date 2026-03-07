@@ -1,0 +1,30 @@
+x captain
+open case
+i
+ask captain for the key
+give beer to captain
+open bench
+x nets
+get nets
+get coke
+give coke to captain
+s
+open chest
+drop nets
+get glacier ice
+get nets
+get glacier ice
+g
+put glacier ice in chest
+get coke
+put coke in chest
+x coke
+g
+g
+g
+get coke
+n
+give coke to captain
+ask captain for key
+open case
+get rods
