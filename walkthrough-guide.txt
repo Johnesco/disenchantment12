@@ -1,34 +1,79 @@
+# Auto-generated walkthrough guide
+
+# The Captain is wearing a baseball cap and carrying a small silver key.
 > x captain
+# (first unlocking the glass case) You lack a key that fits the glass case.
 > open case
+# You are carrying: a backpack (open) a warm beer a pair of sunglasses (being
+#   worn)
 > i
+# "Sure, you can -- well, get me a drink first, would you?"
 > ask captain for the key
+# Give beer to captain
+# (first taking the warm beer) "I don't drink on the job, thanks," he says.
+#   "You can help yourself if you want it, though."
 > give beer to captain
+# Open the bench
+# You open the storage compartment, revealing some nets and a warm Coke.
 > open bench
+# They must have something to do with fish as well. Really, you're just here
+#   for the sights.
 > x nets
+# Pick up the nets
 > get nets
+# (putting the warm beer into the backpack to make room) Taken.
 > get coke
+# Give coke to captain
+# "It needs chilling," the Captain remarks, disgruntled.
 > give coke to captain
+# (first opening the cabin door) Deck The whole back half of the boat is open,
+#   allowing you to view the surroundings without intervening windows -- if...
 > s
+# You open the ice chest.
 > open chest
 > drop nets
+
+# You are having a hard time fishing out the ice with your bare hands.
 > get glacier ice
+# Pick up the nets
 > get nets
+# You scoop up the ice with the net.
 > get glacier ice
+# (putting the warm Coke into the backpack to make room) Taken.
 > g
+# Store the glacier ice in the chest
+# You put the glacier ice into the ice chest.
 > put glacier ice in chest
+# Pick up the coke
 > get coke
+# Store the coke in the chest
+# You put the warm Coke into the ice chest.
 > put coke in chest
+# You see nothing special about the room temperature Coke.
 > x coke
+# Repeat: g (3 times)
+# You see nothing special about the cool Coke.
 > g
 > g
 > g
+
+# Pick up the coke
 > get coke
 
 ## Cabin
 
 > n
+
+# Give coke to captain
 # +2 points
+# "Ah, thank you," he says. How he can drink an iced soda on a day like today
+#   is an open question, but Alaskans are special.
 > give coke to captain
+# "Here, knock yourself out."
 > ask captain for key
+# (first unlocking the glass case) (with the small silver key) You open the
+#   glass case.
 > open case
+# (putting the nets into the backpack to make room) Success is yours! (Now if
+#   only you knew anything about fishing.
 > get rods
